@@ -4,8 +4,8 @@ return array (
   array (
     0 =>
     array (
-      'username' => 'user1',
-      'password' => 'pass1',
+      'username' => 'youxi87',
+      'password' => 'kaowangba123',
       'last_brush' => '',
     ),
     1 =>
@@ -15,5 +15,5 @@ return array (
       'last_brush' => '',
     ),
   ),
-  'tg_push_key' => '',
+  'tg_push_key' => '1039967588',
 );
